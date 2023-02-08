@@ -60,5 +60,13 @@
       "age": 20,
       "email": "cnorssister9@mayoclinic.com"
     }
+  ],
+  "sigin":[
+    {
+      "id": 1,
+      "name": "deepak",
+      "age": 20,
+      "email": "deepak@gmail.com"
+    }
   ]
 }
